@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Machine Learning Classification and Deep Learning.
+I am currently working on Machine Learning and Deep Learning.
 
 
 # 💻 Tech Stack:
